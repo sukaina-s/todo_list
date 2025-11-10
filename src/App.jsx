@@ -1,4 +1,4 @@
-import TaskContextProvider from "./utils/taskContext";
+import TaskContextProvider from "./utils/TaskContext";
 import Header from "./components/Header";
 import InputBar from "./components/InputBar";
 import TaskList from "./components/TaskList";
